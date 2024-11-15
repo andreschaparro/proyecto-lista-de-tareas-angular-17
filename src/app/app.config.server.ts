@@ -1,3 +1,4 @@
+// Este archivo se utiliza para hacer server side rendering
 import { mergeApplicationConfig, ApplicationConfig } from '@angular/core';
 import { provideServerRendering } from '@angular/platform-server';
 import { appConfig } from './app.config';
